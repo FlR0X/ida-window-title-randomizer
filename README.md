@@ -14,3 +14,6 @@ shitty anticheats using from window title detection against your precious ida pr
 
 # q: how do i use this for myself
 place the .py script into C:\Program Files\IDA Professional 9.4\plugins
+
+# q: what does this look like when used
+<img width="273" height="140" alt="image" src="https://github.com/user-attachments/assets/d32419d7-cbd8-4412-87ad-4b6a26df8ab1" />
