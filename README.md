@@ -1,4 +1,4 @@
-# ida-window-title-randomiser
+# ida-window-title-randomizer
 
 - tested on ida pro 9.4
 - might work on lower versions idk
