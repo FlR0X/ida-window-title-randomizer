@@ -4,7 +4,7 @@
 - might work on lower versions idk
 
 # q: what is this
-read the title.
+read the title
 
 # q: how does it work
 runs a continuous loop that looks for the ida window class, if found the plugin will attempt to randomize the windows title to a 32 character string
